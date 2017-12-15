@@ -18,7 +18,7 @@ sys.setdefaultencoding('utf-8')
 
 helpmsg ="""
 ================================
-                    CORN SELFBOT
+                    SELFBOT
 ================================
 
 ➣Mid @ - Show MID by tag
